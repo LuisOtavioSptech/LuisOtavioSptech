@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7a0,100:7c3aed&height=200&section=header&text=Olá%2C%20mundo!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A0&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+Luis+Otávio+%F0%9F%91%BE;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Aprendendo+algo+novo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A0&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+Luis+Otavio+%F0%9F%91%BE;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Aprendendo+algo+novo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 ![Visitas](https://komarev.com/ghpvc/?username=LuisOtavioSptech&label=VISITAS&color=7c3aed&style=for-the-badge)
@@ -90,30 +90,22 @@ console.log(`Bem-vindo ao meu perfil! ${eu.frase}`);
 
 ---
 
-## 🏆 TROFÉUS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuisOtavioSptech&theme=onedark&no-frame=true&no-bg=true&column=7" />
-
-</div>
-
----
-
 ## 💬 FATOS ALEATÓRIOS
 
-> ☕ Meu código roda 73% melhor com café.
+> ☕ Meu código roda 73% melhor com café.<br>
 > 🎲 `Math.random()` já decidiu várias coisas importantes da minha vida.
 
 ---
 
-## 📫 VAMOS CONECTAR?
+<h2 align="center">📫 Vamos conversar?</h2>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+<a href="mailto:luis.jalves@sptech.school">
+  <img src="https://img.shields.io/badge/luis.jalves%40sptech.school-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<br>
+<br><br>
 
 ```text
  ╔══════════════════════════════════════╗
