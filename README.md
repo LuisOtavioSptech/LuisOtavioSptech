@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A0&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+Luis+Otávio+%F0%9F%91%BE;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Aprendendo+algo+novo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-![Visitas](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITAS&color=7c3aed&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/SEU-USUARIO?label=SEGUIDORES&style=for-the-badge&color=00f7a0&labelColor=0d1117)
+![Visitas](https://komarev.com/ghpvc/?username=LuisOtavioSptech&label=VISITAS&color=7c3aed&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/LuisOtavioSptech?label=SEGUIDORES&style=for-the-badge&color=00f7a0&labelColor=0d1117)
 
 </div>
 
@@ -67,10 +67,10 @@ console.log(`Bem-vindo ao meu perfil! ${eu.frase}`);
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisOtavioSptech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOtavioSptech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=LuisOtavioSptech&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -81,9 +81,9 @@ console.log(`Bem-vindo ao meu perfil! ${eu.frase}`);
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
-  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisOtavioSptech/LuisOtavioSptech/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisOtavioSptech/LuisOtavioSptech/output/github-snake.svg" />
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/LuisOtavioSptech/LuisOtavioSptech/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -94,7 +94,7 @@ console.log(`Bem-vindo ao meu perfil! ${eu.frase}`);
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&no-bg=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=LuisOtavioSptech&theme=onedark&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
