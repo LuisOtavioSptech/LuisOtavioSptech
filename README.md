@@ -76,7 +76,7 @@ console.log(`Bem-vindo ao meu perfil! ${eu.frase}`);
 
 ---
 
-## 🐍 A COBRINHA ESTÁ FAMINTA DE COMMITS
+## 🐍 A COBRINHA ESTÁ FAMINTA POR COMMITS
 
 <div align="center">
 
