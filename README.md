@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A0&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+Luis+Otavio+%F0%9F%91%BE;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Aprendendo+algo+novo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-![Seguidores](https://img.shields.io/github/followers/LuisOtavioSptech?label=SEGUIDORES&style=for-the-badge&color=00f7a0&labelColor=0d1117)
 
 </div>
 
