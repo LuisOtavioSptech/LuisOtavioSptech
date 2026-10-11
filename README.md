@@ -17,12 +17,18 @@
 
 ```text
 ┌──────────────────────────────────────────────┐
-│  NOME...... Luis Otávio                      │
-│  CLASSE ...... Dev em formação               │
-│  NÍVEL ....... ▓▓▓▓▓░░░░░  em constante XP   │
-│  BASE ........... São Paulo, Brasil          │
-│  PODER ....... Transformar café em código    │
-│  FRAQUEZA .... Esquecer o ponto e vírgula    │
+│  NOME...... Luis Otávio                      |
+|                                              │
+│  CLASSE ...... Dev em formação               |
+|                                              │
+│  NÍVEL ....... ▓▓▓▓▓░░░░░  em constante XP   |
+|                                              │
+│  BASE ........... São Paulo, Brasil          |
+|                                              │
+│  PODER ....... Transformar café em código    |
+|                                              │
+│  FRAQUEZA .... Esquecer o ponto e vírgula    |
+|                                              │
 │  MISSÃO ...... Construir coisas que importam │
 └──────────────────────────────────────────────┘
 ```
